@@ -33,8 +33,7 @@ Python package requirements
 ---------------------------
 
 * `Python 3`_
-* `Anaconda`_
-* `Networkx`_
+
 
 .. _Python 3: https://www.python.org/downloads/
 .. _Anaconda: https://www.anaconda.com/
