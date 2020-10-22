@@ -35,9 +35,7 @@ Python package requirements
 * `Python 3`_
 
 
-.. _Python 3: https://www.python.org/downloads/
-.. _Anaconda: https://www.anaconda.com/
-.. _Networkx: https://networkx.github.io/documentation/stable/install.html
+
 
 
 Installation
@@ -46,5 +44,3 @@ Installation
 * For detailed installation procedure, refer the **Installation** section in the documentation.
 
 * To clone the repository use the following::
-
-    $ git clone https://github.com/wsu-tss/student_pathway_project.git
