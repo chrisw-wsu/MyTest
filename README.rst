@@ -1,5 +1,5 @@
 =======================
-Student Pathway Project
+My Test Project
 =======================
 
 |build-status| |documentation-status|
